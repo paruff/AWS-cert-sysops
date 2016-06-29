@@ -1,0 +1,41 @@
+{
+  "title": "AWS SysOps Cert",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "MONITORING and METRICS",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "MEMCACHE",
+          "id": 12
+        }
+      }
+    },
+    "11": {
+      "title": "High AVALIABLITY",
+      "id": 3
+    },
+    "21": {
+      "title": "ANALYSIS",
+      "id": 6
+    },
+    "31": {
+      "title": "SECURITY",
+      "id": 7
+    },
+    "41": {
+      "title": "DATA MANAGEMENT",
+      "id": 8
+    },
+    "51": {
+      "title": "NETORKING",
+      "id": 10
+    },
+    "61": {
+      "title": "DEPLOYMENT and PROVISIONING",
+      "id": 11
+    }
+  }
+}
