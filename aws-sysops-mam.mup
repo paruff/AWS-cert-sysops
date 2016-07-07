@@ -1,0 +1,246 @@
+{
+  "title": "Press Space or double-click to edit",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "3": {
+      "title": "MEMCACHE",
+      "ideas": {
+        "1": {
+          "title": "SCALE OUT",
+          "id": 8
+        },
+        "2": {
+          "title": "SCALE UP",
+          "id": 9
+        }
+      },
+      "id": 7,
+      "attr": {
+        "style": {}
+      }
+    },
+    "4": {
+      "title": "SET ALARM",
+      "id": 16,
+      "attr": {
+        "style": {}
+      }
+    },
+    "5": {
+      "title": "ELASTICACHE",
+      "ideas": {
+        "1": {
+          "title": "EVICATIONS",
+          "ideas": {
+            "1": {
+              "title": "REDDIS",
+              "ideas": {
+                "1": {
+                  "title": "SCALE OUT",
+                  "id": 22
+                }
+              },
+              "id": 21
+            },
+            "2": {
+              "title": "MEMCACHE",
+              "ideas": {
+                "1": {
+                  "title": "SCALE OUT",
+                  "id": 24
+                },
+                "2": {
+                  "title": "SCALE UP",
+                  "id": 25
+                }
+              },
+              "id": 23
+            }
+          },
+          "id": 20
+        },
+        "2": {
+          "title": "CONCURRENT CONNECTIONS",
+          "ideas": {
+            "1": {
+              "title": "SET ALARM",
+              "id": 27
+            }
+          },
+          "id": 26
+        }
+      },
+      "id": 19,
+      "attr": {
+        "style": {}
+      }
+    },
+    "6": {
+      "title": "EBS",
+      "id": 29,
+      "attr": {
+        "style": {}
+      }
+    },
+    "7": {
+      "title": "ELB",
+      "id": 31,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "REDDIS",
+      "ideas": {
+        "1": {
+          "title": "SCALE OUT",
+          "id": 4
+        }
+      },
+      "id": 3,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-2": {
+      "title": "SCALE UP",
+      "id": 6,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-3": {
+      "title": "EVICATIONS",
+      "ideas": {
+        "1": {
+          "title": "REDDIS",
+          "ideas": {
+            "1": {
+              "title": "SCALE OUT",
+              "id": 12
+            }
+          },
+          "id": 11
+        },
+        "2": {
+          "title": "MEMCACHE",
+          "ideas": {
+            "1": {
+              "title": "SCALE OUT",
+              "id": 14
+            },
+            "2": {
+              "title": "SCALE UP",
+              "id": 15
+            }
+          },
+          "id": 13
+        }
+      },
+      "id": 10,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-4": {
+      "title": "CONCURRENT CONNECTIONS",
+      "ideas": {
+        "1": {
+          "title": "SET ALARM",
+          "id": 18
+        }
+      },
+      "id": 17,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-5": {
+      "title": "EC2",
+      "id": 28,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-6": {
+      "title": "RDS",
+      "id": 30,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-7": {
+      "title": "MONITORING and METRICS",
+      "ideas": {
+        "1": {
+          "title": "ELASTICACHE",
+          "ideas": {
+            "1": {
+              "title": "EVICATIONS",
+              "ideas": {
+                "1": {
+                  "title": "REDDIS",
+                  "ideas": {
+                    "1": {
+                      "title": "SCALE OUT",
+                      "id": 36
+                    }
+                  },
+                  "id": 35
+                },
+                "2": {
+                  "title": "MEMCACHE",
+                  "ideas": {
+                    "1": {
+                      "title": "SCALE OUT",
+                      "id": 38
+                    },
+                    "2": {
+                      "title": "SCALE UP",
+                      "id": 39
+                    }
+                  },
+                  "id": 37
+                }
+              },
+              "id": 34
+            },
+            "2": {
+              "title": "CONCURRENT CONNECTIONS",
+              "ideas": {
+                "1": {
+                  "title": "SET ALARM",
+                  "id": 41
+                }
+              },
+              "id": 40
+            }
+          },
+          "id": 33
+        },
+        "2": {
+          "title": "EC2",
+          "id": 42
+        },
+        "3": {
+          "title": "EBS",
+          "id": 43
+        },
+        "4": {
+          "title": "RDS",
+          "id": 44
+        },
+        "5": {
+          "title": "ELB",
+          "id": 45
+        }
+      },
+      "id": 32,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
