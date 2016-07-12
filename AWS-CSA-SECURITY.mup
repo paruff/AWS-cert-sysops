@@ -1,0 +1,43 @@
+{
+  "title": "AWS CSA SECURITY",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "POLICIES",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "DATA INTEGRITY",
+      "id": 4,
+      "attr": {
+        "style": {}
+      }
+    },
+    "3": {
+      "title": "ASSESSMENT",
+      "id": 6,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "ACCESS CONTROLS",
+      "id": 3,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-2": {
+      "title": "SHARED RESPONSIBILITY",
+      "id": 5,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
