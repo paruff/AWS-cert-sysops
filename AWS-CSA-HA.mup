@@ -1,0 +1,29 @@
+{
+  "title": "AWS CSA HA",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "SCALABILITY",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "FAULT TOLERANCE",
+      "id": 4,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "ELASTICITY",
+      "id": 3,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
