@@ -1,0 +1,36 @@
+{
+  "title": "AWS CSA DEPLOYMENT & PROVISIONING",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "BUILD",
+      "id": 2,
+      "attr": {
+        "style": {}
+      }
+    },
+    "2": {
+      "title": "MANAGE",
+      "id": 4,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-1": {
+      "title": "PROVISION",
+      "id": 3,
+      "attr": {
+        "style": {}
+      }
+    },
+    "-2": {
+      "title": "AUTOMATION",
+      "id": 5,
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": []
+}
